@@ -1,2 +1,0 @@
-javascript program
-//javascript program
